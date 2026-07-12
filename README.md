@@ -13,6 +13,7 @@
 | [0069-sqrtx](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
