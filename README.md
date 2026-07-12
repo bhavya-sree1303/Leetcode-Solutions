@@ -23,6 +23,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0066-plus-one](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -71,6 +72,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -103,6 +105,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
