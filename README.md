@@ -26,6 +26,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0066-plus-one](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0217-contains-duplicate](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -60,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0217-contains-duplicate](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
@@ -90,6 +92,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
