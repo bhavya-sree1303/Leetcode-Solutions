@@ -8,6 +8,7 @@
 | [0002-add-two-numbers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0060-permutation-sequence](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -202,6 +203,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0060-permutation-sequence](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
