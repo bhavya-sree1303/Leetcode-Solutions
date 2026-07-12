@@ -96,6 +96,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -172,6 +173,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
