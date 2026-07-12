@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
@@ -203,6 +204,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -328,4 +330,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
