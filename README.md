@@ -20,6 +20,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,8 +115,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
