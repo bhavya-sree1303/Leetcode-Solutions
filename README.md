@@ -115,10 +115,12 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
