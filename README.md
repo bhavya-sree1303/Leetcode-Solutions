@@ -138,5 +138,18 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
