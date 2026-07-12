@@ -147,6 +147,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -215,6 +216,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
