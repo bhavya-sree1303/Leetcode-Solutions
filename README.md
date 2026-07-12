@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
