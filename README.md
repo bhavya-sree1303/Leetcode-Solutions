@@ -13,6 +13,7 @@
 | [0069-sqrtx](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [1840-maximum-building-height](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -26,6 +27,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1840-maximum-building-height](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -50,6 +52,7 @@
 | [1288-remove-covered-intervals](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1840-maximum-building-height](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
