@@ -31,6 +31,7 @@
 | [0066-plus-one](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -173,6 +175,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
