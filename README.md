@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0066-plus-one](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -53,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
