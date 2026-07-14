@@ -18,6 +18,7 @@
 | [0367-valid-perfect-square](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -65,6 +66,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -267,6 +269,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -337,4 +340,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
