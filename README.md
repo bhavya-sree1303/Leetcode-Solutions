@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -151,6 +152,7 @@
 | [0137-single-number-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
