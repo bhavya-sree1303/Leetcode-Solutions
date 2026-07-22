@@ -67,4 +67,4 @@ class Solution(object):
                 res[q] = max(res[q], active + cnt_left + zero[index[L] + 1][1])
             if s[R] == '0' and index[L] < index[R] - 1:
                 res[q] = max(res[q], active + cnt_right + zero[index[R] - 1][1])
-        return res
+        return res 
