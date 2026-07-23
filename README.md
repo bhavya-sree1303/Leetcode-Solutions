@@ -63,6 +63,7 @@
 | [0414-third-maximum-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1051-height-checker](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1260-shift-2d-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -106,6 +107,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1051-height-checker](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -363,6 +365,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1051-height-checker](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
