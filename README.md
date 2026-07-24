@@ -262,6 +262,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -321,6 +322,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Stack
@@ -334,11 +336,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
