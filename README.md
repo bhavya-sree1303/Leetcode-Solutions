@@ -250,6 +250,7 @@
 | [0058-length-of-last-word](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0412-fizz-buzz](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
+| [0709-to-lower-case](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
