@@ -204,6 +204,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -216,6 +217,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -333,6 +335,7 @@
 | [0020-valid-parentheses](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -365,6 +368,7 @@
 | [0050-powx-n](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
