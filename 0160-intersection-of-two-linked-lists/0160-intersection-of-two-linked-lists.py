@@ -1,8 +1,8 @@
 # Definition for singly-linked list.
-class ListNode(object):
-    def __init__(temp, x):
-        temp.val = x
-        temp.next = None
+#class ListNode(object):
+    #def __init__(temp, x):
+    #    temp.val = x
+   #     temp.next = None
 
 
 class Solution(object):
