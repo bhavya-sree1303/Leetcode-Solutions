@@ -152,6 +152,7 @@
 | [0001-two-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -213,6 +214,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -227,6 +229,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
