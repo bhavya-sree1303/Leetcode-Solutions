@@ -27,6 +27,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
