@@ -17,6 +17,7 @@
 | [0202-happy-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
@@ -400,6 +401,7 @@
 | [0060-permutation-sequence](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
