@@ -36,6 +36,7 @@
 | [2579-count-total-number-of-colored-cells](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2579-count-total-number-of-colored-cells/) | Medium |
 | [2651-calculate-delayed-arrival-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [2806-account-balance-after-rounded-purchase](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
