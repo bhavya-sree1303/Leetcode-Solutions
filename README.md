@@ -31,6 +31,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2235-add-two-integers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
+| [2579-count-total-number-of-colored-cells](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2579-count-total-number-of-colored-cells/) | Medium |
 | [2651-calculate-delayed-arrival-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
