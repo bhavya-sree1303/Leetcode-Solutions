@@ -15,6 +15,7 @@
 | [0069-sqrtx](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0263-ugly-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
