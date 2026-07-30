@@ -21,6 +21,7 @@
 | [0367-valid-perfect-square](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
+| [0507-perfect-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1276-number-of-burgers-with-no-waste-of-ingredients/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
