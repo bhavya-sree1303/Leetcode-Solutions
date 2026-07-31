@@ -41,6 +41,7 @@
 | [2544-alternating-digit-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2579-count-total-number-of-colored-cells](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2579-count-total-number-of-colored-cells/) | Medium |
 | [2651-calculate-delayed-arrival-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
+| [2652-sum-multiples](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2806-account-balance-after-rounded-purchase](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
