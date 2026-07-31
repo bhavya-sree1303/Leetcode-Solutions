@@ -103,6 +103,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2373-largest-local-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -341,6 +342,7 @@
 | [0867-transpose-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [2373-largest-local-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Graph Theory
