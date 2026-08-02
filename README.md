@@ -101,6 +101,7 @@
 | [1051-height-checker](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1260-shift-2d-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
