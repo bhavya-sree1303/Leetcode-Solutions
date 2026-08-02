@@ -38,6 +38,7 @@
 | [1840-maximum-building-height](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2162-minimum-cost-to-set-cooking-time/) | Medium |
 | [2235-add-two-integers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -288,6 +289,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2162-minimum-cost-to-set-cooking-time/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
