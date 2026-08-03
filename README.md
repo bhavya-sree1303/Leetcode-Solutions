@@ -32,6 +32,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1492-the-kth-factor-of-n](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
@@ -108,6 +109,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1406-stone-game-iii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -396,6 +398,7 @@
 | [0486-predict-the-winner](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1406-stone-game-iii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -517,6 +520,7 @@
 | [0292-nim-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
