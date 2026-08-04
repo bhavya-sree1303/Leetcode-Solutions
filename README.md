@@ -112,6 +112,7 @@
 | [1406-stone-game-iii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1550-three-consecutive-odds](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
