@@ -51,6 +51,7 @@
 | [2652-sum-multiples](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2806-account-balance-after-rounded-purchase](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
+| [2843-count-symmetric-integers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -300,6 +301,7 @@
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2162-minimum-cost-to-set-cooking-time/) | Medium |
+| [2843-count-symmetric-integers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2843-count-symmetric-integers/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
