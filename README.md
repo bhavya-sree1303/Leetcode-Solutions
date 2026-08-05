@@ -36,6 +36,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1837-sum-of-digits-in-base-k](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1840-maximum-building-height](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
