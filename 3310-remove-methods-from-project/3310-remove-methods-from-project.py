@@ -4,7 +4,6 @@ class Solution:
         g=[[]for _ in range(n)]
         for a,b in inv:
             g[a].append(b)
-        
         vis=[0]*n
         q=deque([k])
         vis[k]=1
