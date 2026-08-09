@@ -135,6 +135,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -267,6 +268,7 @@
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -395,6 +397,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
