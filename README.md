@@ -144,6 +144,7 @@
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -227,6 +228,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -330,6 +332,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -505,6 +508,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
