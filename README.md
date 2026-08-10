@@ -142,6 +142,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -404,6 +405,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Graph Theory
