@@ -30,6 +30,7 @@
 | [0858-mirror-reflection](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0877-stone-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1266-minimum-time-visiting-all-points](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1276-number-of-burgers-with-no-waste-of-ingredients/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -117,6 +118,7 @@
 | [1140-stone-game-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1184-distance-between-bus-stops](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1260-shift-2d-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1266-minimum-time-visiting-all-points](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -581,6 +583,7 @@
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0858-mirror-reflection](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
+| [1266-minimum-time-visiting-all-points](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## Least Common Multiple
 | Problem Name | Difficulty |
 | ------- | ------- |
