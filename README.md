@@ -9,6 +9,7 @@
 | [0007-reverse-integer](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
@@ -83,6 +84,7 @@
 | [0027-remove-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
@@ -400,6 +402,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
