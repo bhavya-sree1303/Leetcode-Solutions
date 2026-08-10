@@ -111,6 +111,7 @@
 | [0867-transpose-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0896-monotonic-array/) | Easy |
+| [0941-valid-mountain-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [1051-height-checker](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1140-stone-game-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1184-distance-between-bus-stops](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
