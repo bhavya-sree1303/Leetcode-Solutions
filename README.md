@@ -143,6 +143,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
@@ -274,6 +275,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -372,6 +374,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -623,4 +626,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
