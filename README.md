@@ -49,6 +49,7 @@
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2162-minimum-cost-to-set-cooking-time/) | Medium |
 | [2235-add-two-integers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
@@ -339,6 +340,7 @@
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2162-minimum-cost-to-set-cooking-time/) | Medium |
+| [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2843-count-symmetric-integers/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -572,6 +574,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -614,6 +617,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0858-mirror-reflection](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
+| [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -640,4 +644,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1362-closest-divisors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1362-closest-divisors/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
