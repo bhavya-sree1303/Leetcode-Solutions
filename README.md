@@ -51,6 +51,7 @@
 | [2413-smallest-even-multiple](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2544-alternating-digit-sum/) | Easy |
@@ -149,6 +150,7 @@
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -575,6 +577,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
