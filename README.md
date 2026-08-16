@@ -59,6 +59,7 @@
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2652-sum-multiples](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2652-sum-multiples/) | Easy |
+| [2748-number-of-beautiful-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2806-account-balance-after-rounded-purchase](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
@@ -157,6 +158,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [2748-number-of-beautiful-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
@@ -249,6 +251,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2748-number-of-beautiful-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -543,6 +546,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2748-number-of-beautiful-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -582,6 +586,7 @@
 | [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2748-number-of-beautiful-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
