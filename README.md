@@ -59,6 +59,7 @@
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2652-sum-multiples](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2652-sum-multiples/) | Easy |
+| [2761-prime-pairs-with-target-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2806-account-balance-after-rounded-purchase](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2843-count-symmetric-integers/) | Easy |
@@ -156,6 +157,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [2761-prime-pairs-with-target-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -343,6 +345,7 @@
 | [1291-sequential-digits](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2162-minimum-cost-to-set-cooking-time/) | Medium |
 | [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
+| [2761-prime-pairs-with-target-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2843-count-symmetric-integers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2843-count-symmetric-integers/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -579,6 +582,7 @@
 | [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2761-prime-pairs-with-target-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
