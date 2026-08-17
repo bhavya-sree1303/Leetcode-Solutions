@@ -41,6 +41,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1510-stone-game-iv](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1563-stone-game-v](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1840-maximum-building-height](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
@@ -138,6 +139,7 @@
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1563-stone-game-v](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -478,6 +480,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -619,6 +622,7 @@
 | [1140-stone-game-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
