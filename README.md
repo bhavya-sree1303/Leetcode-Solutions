@@ -169,6 +169,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -535,6 +536,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
