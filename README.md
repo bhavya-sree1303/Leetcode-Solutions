@@ -30,6 +30,7 @@
 | [0812-largest-triangle-area](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0858-mirror-reflection](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0877-stone-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1017-convert-to-base-2](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1017-convert-to-base-2/) | Medium |
 | [1140-stone-game-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1276-number-of-burgers-with-no-waste-of-ingredients/) | Medium |
