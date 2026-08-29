@@ -173,6 +173,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -225,6 +226,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -449,6 +451,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
