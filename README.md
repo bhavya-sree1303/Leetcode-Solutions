@@ -157,6 +157,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2029-stone-game-ix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2057-smallest-index-with-equal-value/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
@@ -392,6 +393,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
