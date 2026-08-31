@@ -140,6 +140,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -271,6 +272,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -296,6 +298,7 @@
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -390,6 +393,7 @@
 | [0055-jump-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
