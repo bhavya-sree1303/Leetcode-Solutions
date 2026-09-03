@@ -1,14 +1,18 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        int min = nums1[0];
-        boolean allEven = true;
-
-        for (int x : nums1) {
-            min = Math.min(min, x);
-            if (x % 2 != 0)
-                allEven = false;
+        int min=Integer.MAX_VALUE;
+        for(int num:nums1){
+            min=Math.min(min,num);
         }
 
-        return min % 2 != 0 || allEven;
+        if(min%2==1){
+            return true;
+        }
+        for(int num:nums1){
+            if(num%2==1){
+                return false;
+            }
+        }
+        return true;
     }
 }
