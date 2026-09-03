@@ -88,6 +88,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@
 | [3866-first-unique-even-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
