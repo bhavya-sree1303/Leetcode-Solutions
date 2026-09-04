@@ -32,6 +32,7 @@
 | [0877-stone-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1017-convert-to-base-2](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1017-convert-to-base-2/) | Medium |
 | [1140-stone-game-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1175-prime-arrangements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1276-number-of-burgers-with-no-waste-of-ingredients/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -731,4 +732,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
 <!---LeetCode Topics End-->
