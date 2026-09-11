@@ -171,6 +171,7 @@
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
@@ -508,6 +509,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
