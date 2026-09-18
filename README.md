@@ -108,6 +108,7 @@
 | [0055-jump-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -288,6 +289,7 @@
 | [0001-two-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
@@ -509,6 +511,7 @@
 | [0048-rotate-image](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0661-image-smoother](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0661-image-smoother/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
