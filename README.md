@@ -178,6 +178,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
@@ -302,6 +303,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -525,6 +527,7 @@
 | [1672-richest-customer-wealth](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
@@ -620,6 +623,7 @@
 | [0867-transpose-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
