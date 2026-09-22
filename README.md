@@ -130,6 +130,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0661-image-smoother](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0661-image-smoother/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -515,6 +516,7 @@
 | [0054-spiral-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0661-image-smoother](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0661-image-smoother/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
@@ -620,6 +622,7 @@
 | [0059-spiral-matrix-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0412-fizz-buzz](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
