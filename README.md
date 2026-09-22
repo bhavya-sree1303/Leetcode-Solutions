@@ -185,6 +185,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
@@ -529,6 +530,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
