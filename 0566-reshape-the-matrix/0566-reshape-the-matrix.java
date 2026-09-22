@@ -3,7 +3,6 @@ class Solution {
         int m = mat.length;
         int n = mat[0].length;
 
-        // Reshape is possible only if total elements are same
         if (m * n != r * c) {
             return mat;
         }
