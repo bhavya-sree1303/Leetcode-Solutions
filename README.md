@@ -166,6 +166,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1706-where-will-the-ball-fall](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -533,6 +534,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1706-where-will-the-ball-fall](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -634,6 +636,7 @@
 | [0985-sum-of-even-numbers-after-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1706-where-will-the-ball-fall](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
