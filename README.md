@@ -177,6 +177,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
+| [1958-check-if-move-is-legal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1958-check-if-move-is-legal/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -426,6 +427,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
+| [1958-check-if-move-is-legal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1958-check-if-move-is-legal/) | Medium |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2162-minimum-cost-to-set-cooking-time/) | Medium |
 | [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
@@ -543,6 +545,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [1958-check-if-move-is-legal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1958-check-if-move-is-legal/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
