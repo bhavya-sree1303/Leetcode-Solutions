@@ -124,6 +124,7 @@
 | [0169-majority-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -279,6 +280,7 @@
 | [0069-sqrtx](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -352,6 +354,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
@@ -525,6 +528,7 @@
 | [0054-spiral-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0661-image-smoother](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0661-image-smoother/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
