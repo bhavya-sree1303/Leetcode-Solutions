@@ -3,19 +3,26 @@ int oddCells(int m, int n, int** indices, int indicesSize, int* indicesColSize) 
     int cols[50] = {0};
 
     for (int i = 0; i < indicesSize; i++) {
-        rows[indices[i][0]]++;
-        cols[indices[i][1]]++;
+        int r = indices[i][0];
+        int c = indices[i][1];
+
+        rows[r]++;
+        cols[c]++;
     }
 
-    int ans = 0;
+    int oddRows = 0;
+    int oddCols = 0;
 
     for (int i = 0; i < m; i++) {
-        for (int j = 0; j < n; j++) {
-            if ((rows[i] + cols[j]) % 2 == 1) {
-                ans++;
-            }
-        }
+        if (rows[i] % 2 != 0)
+            oddRows++;
     }
 
-    return ans;
+    for (int j = 0; j < n; j++) {
+        if (cols[j] % 2 != 0)
+            oddCols++;
+    }
+
+    return oddRows * (n - oddCols) +
+           (m - oddRows) * oddCols;
 }
