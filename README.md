@@ -34,6 +34,7 @@
 | [1017-convert-to-base-2](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1017-convert-to-base-2/) | Medium |
 | [1140-stone-game-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1175-prime-arrangements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1276-number-of-burgers-with-no-waste-of-ingredients/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -144,6 +145,7 @@
 | [1051-height-checker](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1140-stone-game-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1184-distance-between-bus-stops](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
@@ -624,6 +626,7 @@
 | [0415-add-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
