@@ -1,14 +1,12 @@
 void nextPermutation(int* nums, int numsSize) {
-    int i, j, temp;
-
-    // Step 1: Find the first decreasing element from right
-    i = numsSize - 2;
+    int i = numsSize - 2;
+    int j;
+    int temp;
 
     while (i >= 0 && nums[i] >= nums[i + 1]) {
         i--;
     }
 
-    // Step 2: Find the element just greater than nums[i]
     if (i >= 0) {
         j = numsSize - 1;
 
@@ -21,7 +19,6 @@ void nextPermutation(int* nums, int numsSize) {
         nums[j] = temp;
     }
 
-    // Step 3: Reverse the elements after i
     int left = i + 1;
     int right = numsSize - 1;
 
