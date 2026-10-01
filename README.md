@@ -123,6 +123,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -368,6 +369,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1140-stone-game-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
