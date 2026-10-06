@@ -200,6 +200,7 @@
 | [2643-row-with-maximum-ones](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [2780-minimum-index-of-a-valid-split](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
@@ -265,6 +266,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2780-minimum-index-of-a-valid-split](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -317,6 +319,7 @@
 | [1386-cinema-seat-allocation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [2780-minimum-index-of-a-valid-split](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
