@@ -64,6 +64,7 @@
 | [2525-categorize-box-according-to-criteria](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2579-count-total-number-of-colored-cells](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2579-count-total-number-of-colored-cells/) | Medium |
+| [2582-pass-the-pillow](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2582-pass-the-pillow/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2652-sum-multiples](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2652-sum-multiples/) | Easy |
@@ -660,6 +661,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2582-pass-the-pillow](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2582-pass-the-pillow/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
