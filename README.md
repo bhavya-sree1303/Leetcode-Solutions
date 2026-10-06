@@ -199,6 +199,7 @@
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2765-longest-alternating-subarray](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2765-longest-alternating-subarray/) | Easy |
 | [2780-minimum-index-of-a-valid-split](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
@@ -241,6 +242,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
