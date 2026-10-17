@@ -47,6 +47,7 @@
 | [1406-stone-game-iii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1492-the-kth-factor-of-n](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1510-stone-game-iv](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1518-water-bottles](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1518-water-bottles/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1563-stone-game-v](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
@@ -668,6 +669,7 @@
 | [0985-sum-of-even-numbers-after-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1518-water-bottles](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1518-water-bottles/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
