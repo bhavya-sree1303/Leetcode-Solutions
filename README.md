@@ -29,6 +29,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0640-solve-the-equation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0640-solve-the-equation/) | Medium |
 | [0812-largest-triangle-area](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
+| [0829-consecutive-numbers-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0836-rectangle-overlap](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0877-stone-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -439,6 +440,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [1291-sequential-digits](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [1958-check-if-move-is-legal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1958-check-if-move-is-legal/) | Medium |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2162-minimum-cost-to-set-cooking-time/) | Medium |
