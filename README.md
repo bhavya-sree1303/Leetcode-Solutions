@@ -27,6 +27,7 @@
 | [0492-construct-the-rectangle](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0640-solve-the-equation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0640-solve-the-equation/) | Medium |
 | [0812-largest-triangle-area](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
@@ -490,6 +491,7 @@
 | [0412-fizz-buzz](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0520-detect-capital](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0520-detect-capital/) | Easy |
+| [0640-solve-the-equation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0640-solve-the-equation/) | Medium |
 | [0709-to-lower-case](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -658,6 +660,7 @@
 | [0412-fizz-buzz](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0640-solve-the-equation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0640-solve-the-equation/) | Medium |
 | [0867-transpose-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -832,4 +835,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1175-prime-arrangements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
+## Linear Algebra
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0640-solve-the-equation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0640-solve-the-equation/) | Medium |
 <!---LeetCode Topics End-->
