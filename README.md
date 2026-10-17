@@ -28,6 +28,7 @@
 | [0507-perfect-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0640-solve-the-equation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0640-solve-the-equation/) | Medium |
+| [0780-reaching-points](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0780-reaching-points/) | Hard |
 | [0812-largest-triangle-area](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0829-consecutive-numbers-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0836-rectangle-overlap](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
@@ -788,6 +789,7 @@
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0780-reaching-points](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0780-reaching-points/) | Hard |
 | [0858-mirror-reflection](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Minimax
@@ -824,6 +826,7 @@
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0780-reaching-points](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0780-reaching-points/) | Hard |
 | [2427-number-of-common-factors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
