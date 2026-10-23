@@ -441,6 +441,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -511,6 +512,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
