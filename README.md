@@ -34,6 +34,7 @@
 | [0836-rectangle-overlap](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0877-stone-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0906-super-palindromes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0906-super-palindromes/) | Hard |
 | [1017-convert-to-base-2](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1017-convert-to-base-2/) | Medium |
 | [1140-stone-game-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1175-prime-arrangements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
@@ -450,6 +451,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0829-consecutive-numbers-sum/) | Hard |
+| [0906-super-palindromes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0906-super-palindromes/) | Hard |
 | [1291-sequential-digits](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [1958-check-if-move-is-legal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1958-check-if-move-is-legal/) | Medium |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2162-minimum-cost-to-set-cooking-time/) | Medium |
@@ -504,6 +506,7 @@
 | [0520-detect-capital](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0640-solve-the-equation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0640-solve-the-equation/) | Medium |
 | [0709-to-lower-case](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [0906-super-palindromes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0906-super-palindromes/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
