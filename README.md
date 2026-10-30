@@ -185,6 +185,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
+| [1914-cyclically-rotating-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1958-check-if-move-is-legal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1958-check-if-move-is-legal/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -587,6 +588,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1958-check-if-move-is-legal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1958-check-if-move-is-legal/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
@@ -693,6 +695,7 @@
 | [1260-shift-2d-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1518-water-bottles](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1518-water-bottles/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
