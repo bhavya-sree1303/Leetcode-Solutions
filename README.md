@@ -519,6 +519,7 @@
 | [1927-sum-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2315-count-asterisks](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2315-count-asterisks/) | Easy |
 | [2325-decode-the-message](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2451-odd-string-difference](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2451-odd-string-difference/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
