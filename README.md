@@ -337,6 +337,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2325-decode-the-message](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2451-odd-string-difference](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2451-odd-string-difference/) | Easy |
 | [2716-minimize-string-length](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2716-minimize-string-length/) | Easy |
@@ -518,6 +519,7 @@
 | [1927-sum-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2325-decode-the-message](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2451-odd-string-difference](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2451-odd-string-difference/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2716-minimize-string-length](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2716-minimize-string-length/) | Easy |
