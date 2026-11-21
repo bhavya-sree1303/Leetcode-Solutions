@@ -190,6 +190,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2012-sum-of-beauty-in-the-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
