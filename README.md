@@ -516,6 +516,7 @@
 | [0520-detect-capital](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0640-solve-the-equation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0640-solve-the-equation/) | Medium |
 | [0709-to-lower-case](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [0831-masking-personal-information](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0831-masking-personal-information/) | Medium |
 | [0906-super-palindromes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0906-super-palindromes/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
