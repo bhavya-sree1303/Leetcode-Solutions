@@ -369,6 +369,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -385,6 +386,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
