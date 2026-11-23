@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
@@ -374,6 +375,7 @@
 | [0191-number-of-1-bits](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -726,6 +728,7 @@
 | [0206-reverse-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Counting
