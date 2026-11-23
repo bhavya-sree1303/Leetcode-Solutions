@@ -8,6 +8,7 @@
 | [0002-add-two-numbers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0029-divide-two-integers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
@@ -367,6 +368,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
