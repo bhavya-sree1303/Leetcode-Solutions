@@ -188,6 +188,7 @@
 | [1872-stone-game-viii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1958-check-if-move-is-legal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1958-check-if-move-is-legal/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -676,6 +677,7 @@
 | [0234-palindrome-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -798,6 +800,7 @@
 | ------- | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
