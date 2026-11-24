@@ -148,6 +148,7 @@
 | [0566-reshape-the-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0661-image-smoother](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0661-image-smoother/) | Easy |
+| [0682-baseball-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -677,6 +678,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0682-baseball-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -704,6 +706,7 @@
 | [0415-add-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0640-solve-the-equation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0640-solve-the-equation/) | Medium |
+| [0682-baseball-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
