@@ -901,4 +901,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
