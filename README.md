@@ -295,6 +295,7 @@
 | [2607-make-k-subarray-sums-equal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2780-minimum-index-of-a-valid-split](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
+| [2785-sort-vowels-in-a-string](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -542,6 +543,7 @@
 | [2451-odd-string-difference](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2451-odd-string-difference/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2716-minimize-string-length](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2716-minimize-string-length/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
