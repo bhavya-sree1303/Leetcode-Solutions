@@ -39,6 +39,7 @@
 | [0836-rectangle-overlap](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0877-stone-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0891-sum-of-subsequence-widths](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0891-sum-of-subsequence-widths/) | Hard |
 | [0906-super-palindromes](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0906-super-palindromes/) | Hard |
 | [1017-convert-to-base-2](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1017-convert-to-base-2/) | Medium |
 | [1140-stone-game-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -163,6 +164,7 @@
 | [0867-transpose-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0891-sum-of-subsequence-widths](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0891-sum-of-subsequence-widths/) | Hard |
 | [0896-monotonic-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
@@ -288,6 +290,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [0891-sum-of-subsequence-widths](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0891-sum-of-subsequence-widths/) | Hard |
 | [0912-sort-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
