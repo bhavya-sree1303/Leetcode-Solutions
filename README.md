@@ -25,6 +25,7 @@
 | [0367-valid-perfect-square](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
+| [0441-arranging-coins](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
@@ -324,6 +325,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0441-arranging-coins](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
