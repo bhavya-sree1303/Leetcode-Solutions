@@ -159,6 +159,7 @@
 | [0812-largest-triangle-area](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0835-image-overlap](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -328,6 +329,7 @@
 | [0441-arranging-coins](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
