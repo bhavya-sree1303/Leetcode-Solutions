@@ -160,6 +160,7 @@
 | [0867-transpose-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0896-monotonic-array/) | Easy |
+| [0912-sort-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [1051-height-checker](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
@@ -283,6 +284,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [0912-sort-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -402,6 +404,7 @@
 | [0169-majority-element](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0912-sort-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
@@ -414,6 +417,7 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Prefix Sum
@@ -585,6 +589,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
@@ -766,6 +771,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -920,4 +926,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
