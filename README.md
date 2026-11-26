@@ -18,6 +18,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0202-happy-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0224-basic-calculator](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0263-ugly-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0292-nim-game/) | Easy |
@@ -538,6 +539,7 @@
 | [0115-distinct-subsequences](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0166-fraction-to-recurring-decimal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0224-basic-calculator](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0344-reverse-string](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
@@ -700,6 +702,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0224-basic-calculator](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -756,6 +759,7 @@
 | [0050-powx-n](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
