@@ -236,6 +236,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -307,6 +308,7 @@
 | [2780-minimum-index-of-a-valid-split](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhavya-sree1303/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
